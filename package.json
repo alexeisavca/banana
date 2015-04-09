@@ -1,0 +1,20 @@
+{
+  "name": "banana",
+  "version": "0.0.0",
+  "description": "Bananas CMS Installer",
+  "main": "index.js",
+  "dependencies": {
+    "bananas": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "cms"
+  ],
+  "author": "Alexei Savca",
+  "license": "ISC"
+}
